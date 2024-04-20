@@ -15,11 +15,11 @@ A domowa "zupka chińska" to prawdziwe niebo w gębie.
 
 ## Składniki:
  
-- Ramen (baza)
+- [Ramen (baza)](/posts/ramenbaza)
 - Makaron pszenny do Ramen
   - Może być specjalny do tego makaron
   - Mnie taniej wychodzi kupienie "zupki chińskiej" za 1 zł i wywalenie wszystkiego poza makaronem. Ten sam ekspresowy makaron kupowany na dziale azjatyckim wychodzi dużo drożej.
-- Wkładka mięsna (Czaszu albo kurczak po japońsku)
+- Wkładka mięsna ([Czaszu](/posts/chashu) albo kurczak po japońsku)
 - [Jajka Ajitama](/posts/ajitama)
 - Zielenina - może być por albo cebula dymka. Pokrojony w skośne talarki
 
