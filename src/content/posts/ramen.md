@@ -2,7 +2,7 @@
 pubDate: 2024-04-20
 author: Michał Korzycki
 title: Ramen
-description: "Święta zupa Pastafarian. Podstawowe dane świętego miesiąca Ramenadanu"
+description: "Święta zupa Pastafarian. Podstawowe danie świętego miesiąca Ramenadanu"
 image:
   url: "/images/ramen.jpg"
   alt: "#"
@@ -21,7 +21,7 @@ A domowa "zupka chińska" to prawdziwe niebo w gębie.
   - Mnie taniej wychodzi kupienie "zupki chińskiej" za 1 zł i wywalenie wszystkiego poza makaronem. Ten sam ekspresowy makaron kupowany na dziale azjatyckim wychodzi dużo drożej.
 - Wkładka mięsna ([Czaszu](/posts/chashu) albo kurczak po japońsku)
 - [Jajka Ajitama](/posts/ajitama)
-- Zielenina - może być por albo cebula dymka. Pokrojony w skośne talarki
+- Zielenina - może być por albo cebulka dymka. Pokrojony w skośne talarki
 
 ## Opcjonalne dodatki:
 - prażony sezam
