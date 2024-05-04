@@ -50,7 +50,7 @@ Składa się z dwóch części - "Tikka" - czyli kurczak, no i "Masala" czyli so
 - cebulę obrać, posiekać w piórka
 - imbir obrać ze skórki łyżeczką, posiekać w piórka
 - papryczki posiekać. Pamiętać o środkach ostrożności przy bardzo ostrych odmianach. 😷
-  - Można regulować ostrość tym błony wewnętrzne trafią do gara. Tam siedzi kapsaicyna, a nie w pestkach jak niektórzy sądzą. 
+  - Można regulować ostrość tym czy błony wewnętrzne trafią do gara. Tam siedzi kapsaicyna, a nie w pestkach jak niektórzy sądzą. 
 - Podsmażyć składniki na tłuszczu. 
 - Jak cebula zacznie ciemnieć, dodać przyprawy. Podsmażyć.
 - Dodać passatę i odrobinę wody. Gotować na wolnym ogniu 20 minut.
