@@ -2,7 +2,7 @@
 pubDate: 2024-04-30
 author: Michał Korzycki
 title: Szybki i wściekły Meksykanin
-description: Smak meksykański to "3xC - Cumin, Coriander, Chilli"
+description: Smak meksykański to "3xC - Cumin, Coriander, Chili"
 image:
   url: "/images/mexican.jpg"
   alt: "#"
@@ -10,18 +10,19 @@ tags: ["Quick", "Mexican"]
 ---
 ## Składniki:
  
-- Przyprawy bazowe - Kmin rzymski, kolendra (ziarna, zmielone) i Chilli
-  - Z Chilli chodzi ogólnie o jakąś paprykę w proszku. Moje preferowane to: 
-    - Słodka wędzona papryka. Najlepsza hiszpańska (tzw. pimiento) albo węgierska
-    - Pieprz Cayenne
-    - Pierz Turecki
+- Przyprawy bazowe - Kmin rzymski, kolendra (ziarna, zmielone) i Chili
+  - Z Chili chodzi ogólnie o jakąś paprykę w proszku. Moje preferowane to: 
+    - Słodka wędzona papryka. Najlepsza hiszpańska (tzw. *pimiento*) albo węgierska
+    - Dodatkowo, do smaku i regulowania ostrości:
+      - Pieprz Cayenne
+      - Pierz Turecki
 - Opcjonalne przyprawy:
   - Oregano
   - Sumak
 - Jakieś mięso mielone. Ja używam mielonego indyka
 - Fasola czerwona albo czarna. Może być z puszki. Pamiętać, aby dobrze opłukać fasolę z zalewy.
 
-<img src="/images/przyprawy.jpg" style="--tw-invert: invert(0%);" />^M
+<img src="/images/przyprawy.jpg" style="--tw-invert: invert(0%);" />
 
 ## Przygotowanie:
 
