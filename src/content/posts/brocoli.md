@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-05-05
 author: Michał Korzycki
-title: Brocolli Pasta 
+title: Broccoli Pasta 
 description: Kremowy sos brokułowy
 image:
   url: "/images/brocollo.jpg"
