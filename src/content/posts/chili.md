@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-05-28 
 author: Michał Korzycki
-title: Cowboy Coffee Chilli
+title: Cowboy Coffee Chili
 description: "Ain't no cowboy chili without a strong pot of coffee in it. Yihaa!"
 image:
   url: "/images/chili0.jpg"
