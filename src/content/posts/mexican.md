@@ -6,7 +6,7 @@ description: Smak meksykański to "3xC - Cumin, Coriander, Chili"
 image:
   url: "/images/mexican.jpg"
   alt: "#"
-tags: ["Quick", "Mexican"]
+tags: ["Quick", "Texmex"]
 ---
 ## Składniki:
  
