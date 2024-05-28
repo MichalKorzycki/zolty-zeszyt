@@ -4,7 +4,7 @@ author: Michał Korzycki
 title: Ramen
 description: "Święta zupa Pastafarian. Podstawowe danie świętego miesiąca Ramenadanu"
 image:
-  url: "/images/ramen.jpg"
+  url: "/images/ramen2.jpg"
   alt: "#"
 tags: ["Soup", "Japanese"]
 ---
@@ -19,9 +19,9 @@ A domowa "zupka chińska" to prawdziwe niebo w gębie.
 - Makaron pszenny do Ramen
   - Może być specjalny do tego makaron
   - Mnie taniej wychodzi kupienie "zupki chińskiej" za 1 zł i wywalenie wszystkiego poza makaronem. Ten sam ekspresowy makaron kupowany na dziale azjatyckim wychodzi dużo drożej.
-- Wkładka mięsna ([Czaszu](/posts/chashu) albo kurczak po japońsku)
+- Wkładka mięsna ([Czaszu](/posts/chashu) albo [kurczak po japońsku](/posts/kurczakjap))
 - [Jajka Ajitama](/posts/ajitama)
-- Zielenina - może być por albo cebulka dymka. Pokrojony w skośne talarki
+- Zielenina - może być por albo cebulka dymka. Pokrojone w skośne talarki. Może być drobno pokrojona czerwona cebula.
 
 ## Opcjonalne dodatki:
 - prażony sezam

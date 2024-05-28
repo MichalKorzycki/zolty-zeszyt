@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-04-19
 author: Michał Korzycki
-title: Ramen - baza
+title: 'Tare - Baza do Ramen'
 description: "Dobry bulion do Ramen to podstawa. Żadne tam kostki rosołowe."
 image:
   url: "/images/baza.jpg"
