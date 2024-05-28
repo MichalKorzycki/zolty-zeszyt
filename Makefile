@@ -39,25 +39,4 @@ build:
 	nvm use 18 && npm run build
 
 deploy:
-	@$(eval DISTDIR=$(SLUG)-`date -Imin`)
-	@echo Deploying $(DISTDIR);
-	@mkdir -p $(D).deploys/$(DISTDIR);
-	echo "Build: " `date --rfc-3339='seconds'` > $(D).deploys/$(DISTDIR)/build.txt
-	echo "Commit:" `git log -1 --pretty="%ci %H"` >> $(D).deploys/$(DISTDIR)/build.txt
-	@cp -r dist/* $(D).deploys/$(DISTDIR);
-	@cp mustacheView.json $(D).deploys/$(DISTDIR);
-	@rm -f $(D).deploys/$(DISTDIR)/js/*.map||true;
-	@touch $(D)/$(SLUG);
-	@rm $(D)/$(SLUG);
-	@ln -s $(D).deploys/$(DISTDIR) $(D)/$(SLUG);
-	@echo
-	@echo Deployed $(SLUG)
-
-preview-deploy:
-	$(eval DISTDIR=$(SLUG)-`date -Imin`)
-	echo Deploying $(DISTDIR);
-	mkdir -p $(D).deploys/$(DISTDIR);
-	echo "Build: " `date --rfc-3339='seconds'` > $(D).deploys/$(DISTDIR)/build.txt
-	echo "Commit:" `git log -1 --pretty="%ci %H"` >> $(D).deploys/$(DISTDIR)/build.txt
-	cp -r dist/* $(D).deploys/$(DISTDIR);
-	
+	cd dist && cp -r . /usr/share/nginx/html/zoltyzeszyt/
