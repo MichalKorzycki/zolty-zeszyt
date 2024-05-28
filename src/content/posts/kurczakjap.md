@@ -1,5 +1,5 @@
 ---
-pubDate: 2024-05-20
+pubDate: 2024-05-18
 author: Michał Korzycki
 title: Kurczak po japońsku
 description: "Szybka wkładka mięsna do Ramen"
