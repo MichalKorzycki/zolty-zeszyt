@@ -4,12 +4,12 @@ author: Michał Korzycki
 title: Cowboy Coffee Chili
 description: "Ain't no cowboy chili without a strong pot of coffee in it. Yihaa!"
 image:
-  url: "/images/chili0.jpg"
+  url: "/images/chili1.jpg"
   alt: "#"
 tags: ["Texmex"]
 ---
 
-Teksańskie chili jest bez fasoli. Trochę więc tu przekłamuję. Ale to czego na pewno nie ma w żadnej wersji chili to kukurydza. 
+But ain't no beans in a Texas Chili. Trochę więc tu przekłamuję. Ale to czego na pewno nie ma w żadnej wersji chili to kukurydza. 
 
 ## Składniki:
 
@@ -20,11 +20,13 @@ Teksańskie chili jest bez fasoli. Trochę więc tu przekłamuję. Ale to czego 
 - Zestaw 3xC: Kmin rzymski, kolendra mielona, chili. Po 25g (torebka albo kopiata łyżka) każdego. 25g suszonego oregano
 - Drugie tyle wszelkich chili (papryk) w proszku. Im więcej gatunków (cayenne, pieprz turecki itp. itd.), tym ciekawszy smak się uzyska
 - dwie laski cynamonu (!)
-- szklanka mocnej, świeżo zaparzonej kawy (!)
+- szklanka 250ml mocnej, świeżo zaparzonej kawy (!)
 - puszka 500ml ciemnego piwa typu stout
 - pasata pomidorowa - 800g
 - puszka przecieru pomidorowego - 50g
 - 4 puszki czerwonej fasoli
+
+<img src="/images/chili0.jpg" style="--tw-invert: invert(0%);" />
 
 ## Przygotowanie:
 
@@ -34,6 +36,7 @@ Teksańskie chili jest bez fasoli. Trochę więc tu przekłamuję. Ale to czego 
 - Mięso z warzywami zalać piwem. Dodać cynamon. Dusić godzinę.
 - Jak zacznie płynu ubywać, uzupełnić kawą.
 - Po godzinie dodać pasatę i przecier - podusić dalsze 30 minut.
-- Fasolę z puszki dodać na samy końcu, praktycznie tylko by podgrzać. Fasola w puszce już jest ugotowana.
+- Fasolę z puszki dodać na samym końcu, praktycznie tylko by podgrzać. Fasola w puszce już jest ugotowana.
 
 Podawać z ryżem, chipsami kukurydzianymi, jogurtem naturalnym i tartym serem żółtym (idealnie - cheddar).
+Jak każdy Eintopf/gulasz - smakuje lepiej na drugi dzień.
