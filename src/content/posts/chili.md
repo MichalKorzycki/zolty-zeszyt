@@ -31,9 +31,9 @@ But ain't no beans in a Texas Chili. Trochę więc tu przekłamuję. Ale to czeg
 ## Przygotowanie:
 
 - Dobrze wysmażyć mięso
-- Usmażyć cebulę ze słodką papryką i innymi nie suszonymi papryki (np. jalapeño). Ja lubię smażyć na dwa garnki jest szybciej. Smażenie razem spowoduje, że mięso się udusi a nie usmaży, bo warzywa wypuszczą dużo wody.
+- Usmażyć cebulę ze słodką papryką i innymi nie suszonymi papryki (np. jalapeño). Ja lubię smażyć na dwa garnki - jest szybciej. Smażenie razem spowoduje, że mięso się udusi a nie usmaży, bo warzywa wypuszczą dużo wody.
 - Dodać do mięsa przyprawy, podsmażyć by wydobyć aromat
-- Mięso z warzywami zalać piwem. Dodać cynamon. Dusić godzinę.
+- Mięso z warzywami zalać piwem. Dodać cynamon. Dusić godzinę na małym ogniu.
 - Jak zacznie płynu ubywać, uzupełnić kawą.
 - Po godzinie dodać pasatę i przecier - podusić dalsze 30 minut.
 - Fasolę z puszki dodać na samym końcu, praktycznie tylko by podgrzać. Fasola w puszce już jest ugotowana.
