@@ -2,14 +2,14 @@
 pubDate: 2024-05-20
 author: Michał Korzycki
 title: Linguine al Limone con Scampi
-description: Po prostu makaron na cytrynie 
+description: Letnie danie na winie. Czyli "co tam się nawinie"
 image:
   url: "/images/limone.jpg"
   alt: "#"
 tags: ["Italian", "Quick"]
 ---
 
-Prościej chyba się nie da - makaron z cytryną.
+Letnie danie na winie. Czyli "co tam się nawinie"
 
 ## Składniki:
 
