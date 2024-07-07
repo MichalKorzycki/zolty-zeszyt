@@ -17,8 +17,8 @@ But ain't no beans in a Texas Chili. Trochę więc tu przekłamuję. Ale to czeg
 - 1kg białej cebuli
 - 600g słodkiej papryki. Najlepiej w kolorze innym niż czerwony
 - Do smaku - jalapeño czy inne ostre papryczki - 50g
-- Zestaw 3xC: Kmin rzymski, kolendra mielona, chili. Po 25g (torebka albo kopiata łyżka) każdego. 25g suszonego oregano
-- Drugie tyle wszelkich chili (papryk) w proszku. Im więcej gatunków (cayenne, pieprz turecki itp. itd.), tym ciekawszy smak się uzyska
+- Zestaw 3xC: Kmin rzymski, kolendra mielona, chili. Po 25g (torebka albo kopiata łyżka) każdego. 25g suszonego oregano.
+- Drugie tyle wszelkich chili (papryk) w proszku. Im więcej gatunków (cayenne, pieprz turecki itp. itd.), tym ciekawszy smak się uzyska. W składzie na pewno powinna znaleźć się jakaś wędzona - hiszpańskie pimiento, węgierska wędzona albo chipotle.
 - dwie laski cynamonu (!)
 - szklanka 250ml mocnej, świeżo zaparzonej kawy (!)
 - puszka 500ml ciemnego piwa typu stout
@@ -31,8 +31,9 @@ But ain't no beans in a Texas Chili. Trochę więc tu przekłamuję. Ale to czeg
 ## Przygotowanie:
 
 - Dobrze wysmażyć mięso
-- Usmażyć cebulę ze słodką papryką i innymi nie suszonymi papryki (np. jalapeño). Ja lubię smażyć na dwa garnki - jest szybciej. Smażenie razem spowoduje, że mięso się udusi a nie usmaży, bo warzywa wypuszczą dużo wody.
+- Usmażyć cebulę ze słodką papryką i innymi świeżymi paprykami (np. jalapeño). Ja lubię smażyć na dwa garnki - raz - jest szybciej. Dwa - smażenie razem spowoduje, że mięso się udusi a nie usmaży, bo warzywa wypuszczą dużo wody.
 - Dodać do mięsa przyprawy, podsmażyć by wydobyć aromat
+- Połączyć mięso i warzywa
 - Mięso z warzywami zalać piwem. Dodać cynamon. Dusić godzinę na małym ogniu.
 - Jak zacznie płynu ubywać, uzupełnić kawą.
 - Po godzinie dodać pasatę i przecier - podusić dalsze 30 minut.

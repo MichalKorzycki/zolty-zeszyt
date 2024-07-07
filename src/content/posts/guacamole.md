@@ -4,7 +4,7 @@ author: Michał Korzycki
 title: Guacamole
 description: "Ahuacatl to po aztecku awokado"
 image:
-  url: "/images/guac.jpg"
+  url: "/images/guac.jpg" 
   alt: "#"
 tags: ["Texmex", "Salad", "Quick"]
 ---

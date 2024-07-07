@@ -85,3 +85,20 @@ Use AstroSeo in all the pages you want different Seo than the index page
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap" rel="stylesheet">
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<script is:inline>
+  function shareData() {
+    const post = window.location.href.split("/").reverse()[0]
+    const dataToShare = {
+      title: document.title,
+      text: `Zapraszam do Żółtego Zeszytu`,
+      url:
+        `https://zoltyzeszyt.pl/posts/${post}/`
+    };
+    console.log(dataToShare);
+    try {
+      navigator.share(dataToShare);
+    } catch (err) {
+      console.log(err);
+    }
+  }
+</script>
