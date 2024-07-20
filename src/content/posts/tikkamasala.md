@@ -7,6 +7,7 @@ image:
   url: "/images/tikka1.jpg"
   alt: "#"
 tags: ["Indian"]
+
 ---
 
 Danie pochodzące ponoć ... ze Szkocji, stworzone przez bengalskiego kucharza.

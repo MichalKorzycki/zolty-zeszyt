@@ -3,7 +3,8 @@ import { getCollection } from 'astro:content';
 import MarkdownPostLayout from '../../layouts/MarkdownPostLayout.astro';
 export async function getStaticPaths() {
   const blogEntries = await getCollection('posts');
-  return blogEntries.map(entry => ({
+  blogEntries.forEach(x => (console.log(entry));
+  return blogEntries.filter(entry => (entry.hidden !== true)).map(entry => ({
     params: { slug: entry.slug }, props: { entry },
   }));
 }
