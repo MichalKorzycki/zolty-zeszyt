@@ -14,6 +14,7 @@ Fermentowaną herbatę, choć pochodząca z Chin, nazywamy z japońska - Kombuch
 
 Co grzybek lubi:
 - twardą wodę (lepiej nie filtrować wody)
+- garbniki z herbaty
 
 Czego grzybek nie lubi:
 - Braku dostępu do powietrza
@@ -23,7 +24,7 @@ Czego grzybek nie lubi:
 ## Składniki:
 
 - Grzybek herbaciany
-- Herbata 
+- Herbata liściasta. 
 - 100g cukru na 1 litr harbaty - ja stosuję trzcinowy
 
 ## Przygotowanie:
@@ -38,3 +39,5 @@ Czego grzybek nie lubi:
   - Przelać do butelki kapslowanej
   - Dosłodzić 1 łyżeczką cukru na 1L napoju
   - Odstawić na kolejne kilka dni
+
+Warto poeksperymentować z różnymi gatunkami herbaty. Efekty mogą być zaskakujące. Ja typowo stosuje zieloną Yunnan i zieloną z platkami jaśminu (niearomatyzowana) w proporcji 50/50 żeby jaśmin nie zdominował smaku. Ale jak używałem herbaty gunpowder - po "zjedzeniu" garbników to co zostawało miało wyraźną nutę brzoskwiniową (sic!).
