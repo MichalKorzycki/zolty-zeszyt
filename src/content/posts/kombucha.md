@@ -19,6 +19,7 @@ Co grzybek lubi:
 Czego grzybek nie lubi:
 - Braku dostępu do powietrza
 - Wszelkich olejków aromatycznych (herbaty aromatyzowane, Earl Grey itp.)
+- Kontaktu z metalem
 
 
 ## Składniki:
@@ -40,4 +41,4 @@ Czego grzybek nie lubi:
   - Dosłodzić 1 łyżeczką cukru na 1L napoju
   - Odstawić na kolejne kilka dni
 
-Warto poeksperymentować z różnymi gatunkami herbaty. Efekty mogą być zaskakujące. Ja typowo stosuje zieloną Yunnan i zieloną z platkami jaśminu (niearomatyzowana) w proporcji 50/50 żeby jaśmin nie zdominował smaku. Ale jak używałem herbaty gunpowder - po "zjedzeniu" garbników to co zostawało miało wyraźną nutę brzoskwiniową (sic!).
+Warto poeksperymentować z różnymi gatunkami herbaty. Efekty mogą być zaskakujące. Ja typowo stosuje zieloną Yunnan i zieloną z platkami jaśminu (niearomatyzowana) w proporcji 50/50 żeby jaśmin nie zdominował smaku. Ale jak używałem herbaty gunpowder - po "zjedzeniu" przez SCOBY garbników to co zostawało miało wyraźną nutę brzoskwiniową (sic!).

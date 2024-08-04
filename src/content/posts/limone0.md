@@ -4,7 +4,7 @@ author: Michał Korzycki
 title: Pasta al Limone
 description: Po prostu makaron na cytrynie 
 image:
-  url: "/images/lemon0.jpg"
+  url: "/images/lemon2.jpg"
   alt: "#"
 tags: ["Italian", "Quick"]
 ---
