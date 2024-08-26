@@ -4,7 +4,7 @@ author: Michał Korzycki
 title: Pasta Amatriciana
 description: Przebój z Lazio
 image:
-  url: "/images/ammatriciana.jpg"
+  url: "/images/ammatriciana2.jpg"
   alt: "#"
 tags: ["Quick", "Italian"]
 ---
