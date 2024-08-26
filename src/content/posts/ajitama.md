@@ -32,6 +32,8 @@ Miska Ramen bez na wpół-twardego jajeczka ajitama się nie liczy.
 - zostawić w lodówce na 12 godzin (a najlepiej 24 godziny)
 - co jakiś czas obracać jajka w słoiku by kolor sosu sojowego był równo rozprowadzony
 
+Jajka szybciej "dojdą" jeśli zalewa będzie letnia.
+
 Tak przygotowane jajka w lodówce spokojnie 5 dni wytrzymają. Można zrobić na zapas.
 
 Praktyczna rada: Przy cięciu na pół tak miękkich jajek nożem, dużo żółtka się wylewa. Do cięcia mi się sprawdza ... nić dentystyczna.
