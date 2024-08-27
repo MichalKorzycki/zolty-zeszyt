@@ -2,7 +2,7 @@
 pubDate: 2024-08-25
 author: Michał Korzycki
 title: Wołowina po mongolsku
-description: "Danie jak sama nazwa wskazuje - pochodzi z Tajwanu"
+description: "Danie, jak sama nazwa wskazuje, pochodzi z Tajwanu"
 image:
   url: "/images/mongolian.jpg"
   alt: "#"
