@@ -2,7 +2,6 @@ SOURCEDIR = dist
 SLUG = zolty-zeszyt
 Z=zopfli -i50
 B=brotli -f -k -Z -w 0
-SLUG := $(shell python3 cli/slug.py mustacheView.json slug)
 PARTNERSLUG := $(shell python3 cli/slug.py mustacheView.json partner_slug)
 ICOPATH := $(shell python3 cli/slug.py mustacheView.json icopath)
 LOGOPATH := $(shell python3 cli/slug.py mustacheView.json logopath)
