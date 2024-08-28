@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-07-06
 author: Michał Korzycki
-title: Rustykalna Sałaka Nicejska
+title: Rustykalna Sałatka Nicejska
 description: "Znalezione w starej książce kucharskiej"
 image:
   url: "/images/nicoise.jpg" 

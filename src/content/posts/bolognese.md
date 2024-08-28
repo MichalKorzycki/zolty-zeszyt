@@ -11,7 +11,7 @@ tags: ["Italian"]
 
 Klasyczny makaron z ojczyzny wszelkich makaronów - regionu Emilia-Romagna. Dwa podstawowe składniki to prostota i czas. 
 
-Do tego sosu absolutnie nie nadaje się, wbrew pozorom, spaghetti. Używa się do tego makaronu o płaskim krztałcie do którego ten sos będzie lepiej przylegał - jajeczne tagliatelle, czy zwykłe fettucine lub pappardelle. Już penne są lepsze niż spaghetti. Spaghetti wymaga oleistych sosów (pesto, aglio e olio itp.).
+Do tego sosu absolutnie nie nadaje się, wbrew pozorom, spaghetti. Używa się do tego makaronu o płaskim krztałcie do którego ten sos będzie lepiej przylegał - jajeczne tagliatelle, czy też zwykłe fettucine lub pappardelle. Już penne są lepsze niż spaghetti. Spaghetti wymaga oleistych sosów (pesto, aglio e olio itp.).
 
 Bazą do sosu jest *soffritto*. Są to podsmażone na oliwie, drobno posiekane, cebula, marchewka i seler naciowy w proporcji 2:1:1. Na koniec smażenia, jak cebula już zmięknie, należy garnek odglazurować winem. 
 
