@@ -11,6 +11,8 @@ tags: ["Balkan", "Quick", "Salad"]
 
 Sałatka stworzona ponoć w latach piećdziesiątych na potrzeby szybko rozwijającego się ruchu turystycznego. Jej podstawą jest bułgarski ser Sirene - u nas w supermarketach do kupienia jako ser "Bałkański". Leży zazwyczaj na sekcji nabiału obok Fety. Sama grecka Feta jest trochę zbyt tłusta i nie nadaje się do tarcia na tarce z grubymi oczkami.
 
+<img src="/images/sirene.jpg" style="--tw-invert: invert(0%);" />
+
 ## Składniki:
 
 - pół kilo ogórków gruntowych
