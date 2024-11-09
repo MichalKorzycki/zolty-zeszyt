@@ -9,7 +9,9 @@ image:
 tags: ["Thai"]
 ---
 
-To curry jest jednym z trójki "street light curries" (zielone, żółte, czerwone) zupełnie niespotykanych w kuchni tajskiej. Zostały one stworzone przez rząd Tajlandii w 2002r. na potrzeby chyba najszerzej zakrojonej w historii kampanii "gastrodyplomacji". W ramach ogłoszonego programu "Global Thai", na całym świecie można było uzyskać atrakcyjne pożyczki na otwarcie restauracji. Warunkiem uzyskania tej pożyczki od rządu tajskiego było m.in. zawarcie "street light curries" w menu.
+Jedno z trójki "street light curries" (zielone, żółte, czerwone) zupełnie niespotykanych w kuchni tajskiej. Zostały one stworzone przez rząd Tajlandii w 2002r. na potrzeby chyba najszerzej zakrojonej w historii kampanii "gastrodyplomacji". 
+
+W ramach ogłoszonego programu "Global Thai", na całym świecie można było uzyskać atrakcyjne pożyczki na otwarcie restauracji tajskich. Warunkiem uzyskania tej pożyczki od rządu tajskiego było m.in. zawarcie "street light curries" w menu.
 
 ## Składniki:
 
