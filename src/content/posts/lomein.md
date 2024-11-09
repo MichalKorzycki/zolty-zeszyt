@@ -1,5 +1,5 @@
 ---
-pubDate: 2024-09-15
+pubDate: 2024-10-01
 author: Michał Korzycki
 title: Lo Mein
 description: "Szybki makaron po chińsku"

@@ -1,5 +1,5 @@
 ---
-pubDate: 2024-10-01
+pubDate: 2024-09-15
 author: Michał Korzycki
 title: Ryż Smażony z Warzywami i Kurczakiem
 description: "Jak od Chińczyka na wynos"
