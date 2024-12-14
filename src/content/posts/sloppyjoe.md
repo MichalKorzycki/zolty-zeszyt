@@ -1,5 +1,5 @@
 ---
-pubDate: 2024-15-30
+pubDate: 2024-11-30
 author: Michał Korzycki
 title: Sloppy Joe
 description: Sandwich na ciepło i na zimno
@@ -22,3 +22,5 @@ Sandwich zrodzony w Iowa w latach 30-tych XXw. Według legendy - autorem był ku
 - Chleb stosować
 - Obie strony posmarować musztardą.
 - Sos boloński zredukować aby dało się go łatwo smarować i włożyć między kromki.
+
+Podawać na zimno lub na ciepło.

@@ -2,16 +2,16 @@
 pubDate: 2024-10-10
 author: Michał Korzycki
 title: Zielone Curry z Kurczakiem
-description: "Tajskie Curry zupełnie nieznane w Tajlandii"
+description: "Klasyczne Tajskie Curry - tylko, że zupełnie nieznane w Tajlandii"
 image:
   url: "/images/greencurry.jpg"
   alt: "#"
 tags: ["Thai"]
 ---
 
-Jedno z trójki "street light curries" (zielone, żółte, czerwone) zupełnie niespotykanych w kuchni tajskiej. Zostały one stworzone przez rząd Tajlandii w 2002r. na potrzeby chyba najszerzej zakrojonej w historii kampanii "gastrodyplomacji". 
+Jedno z trójki *"street light curries"* (zielone, żółte, czerwone) zupełnie niespotykanych w kuchni tajskiej. Zostały one stworzone przez rząd Tajlandii w 2002r. na potrzeby  zakrojonej chyba najszerzej w historii kampanii "gastrodyplomacji". 
 
-W ramach ogłoszonego programu "Global Thai", na całym świecie można było uzyskać atrakcyjne pożyczki na otwarcie restauracji tajskich. Warunkiem uzyskania tej pożyczki od rządu tajskiego było m.in. zawarcie "street light curries" w menu.
+W ramach ogłoszonego programu *"Global Thai"*, na całym świecie można było uzyskać atrakcyjne pożyczki na otwarcie restauracji tajskich. Jednym z warunków uzyskania pożyczki od rządu tajskiego było właśnie zawarcie *"street light curries"* w menu.
 
 ## Składniki:
 
