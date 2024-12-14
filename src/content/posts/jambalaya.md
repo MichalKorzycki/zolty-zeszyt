@@ -11,24 +11,26 @@ tags: ["Cajun", "Quick"]
 
 W Ameryce istnieje grupa etniczna zwana *Cajun*. Nazwa jest zniekształconą wersją *Acadian* - oznaczających potomków francuskich kolonizatorów z XVII i XVIII wieku. Zamieszkiwali oni oryginalnie historyczny obszar *Acadia*. Obejmował on północno-wschodnie wybrzeże kontynentu - obejmując Nową Szkocję, Maine czy Wyspę Księcia Edwarda. W połowie XVIIIw. zostali deportowani na południe, głównie na obszar dzisiejszej Luizjany.  
 
-Podstawą dania jest aromatyczna, grubo mielona kiełbasa *andouille*. Można ją zastąpić jak podają przepisy - "Polish Kielbasa", czyli naszą Kiełbasą Wiejską.
+Podstawą dania jest aromatyczna, grubo mielona kiełbasa *andouille*. Można ją zastąpić jak podają przepisy - *"Polish Kielbasa"*, czyli naszą kiełbasę wiejską.
 Bazą warzywną jest coś w rodzaju *soffritto* złożone tym razem z cebuli, zielonej papryki i selera naciowego. 
 
-W składzie jest koniecznie pieprz kajeński. Zbieżność nazw z Cajun jest przypadkowa. Ten gatunek papryki pochodzi z Gujany Francuskiej, której stolicą jest port Cayenne.
+W składzie koniecznie pieprz kajeński. Zbieżność nazw z Cajun jest przypadkowa. Ten gatunek papryki pochodzi z Gujany Francuskiej, której stolicą jest port Cayenne.
 
-Istnieją dwie wersje tego dania - klasyczna, akadyjska, bez pomidorów. Wymaga wtedy więcej płynu - idealnie bulionu z drobiu. Wersja kreolska - jest z dodaniem pomidorów (u mnie - passaty).
+Istnieją dwie wersje tego dania - klasyczna, akadyjska, bez pomidorów. Wymaga wtedy więcej płynu - idealnie bulionu z drobiu. Wersja kreolska - jest z dodaniem pomidorów (u mnie - passaty). Do wersji klasycznej, często dodawana jest (dla zagęszczenia) okra. To warzywo o kleistej konsystencji cenione w wielu krajach na świecie. Wersja z okrą, a bez pomidorów, poniżej:
+
+<img src="/images/okra.jpg" style="--tw-invert: invert(0%);" />
 
 ## Składniki
 
 
 - 300g kiełbasy wiejskiej
 - 300g fileta z kurczaka
+- 500g ryżu długoziarnistego
 - 3 cebule
 - 2 zielone papryki
 - 3 strąki selera naciowego 
+- 3 ząbki czosnku
 - Olej
-- 500g ryżu długoziarnistego
-- Szklanka pełnego mleka
 - Sól, pieprz, papryka wędzona, oregano, tymianek
 - Pieprz Kajeński
 - Ewentualnie: Passata pomidorowa
@@ -43,5 +45,5 @@ Istnieją dwie wersje tego dania - klasyczna, akadyjska, bez pomidorów. Wymaga 
 - Dodać przyprawy. Podsmażyć.
 - Dodać płyn - bulion jeśli robimy wersję Cajun, passatę jeśli robimy wersję Kreolską
 - Dorzucić mięso z kurczaka i plastry kiełbasy
-- Dusić pod przykryciem ok. 20 min, mieszając czasem i dolewając wody (ostrożnie) 
-- Na sam koniec można dorzucić krewetki
+- Dusić pod przykryciem ok. 15 min do zmięknięcia ryżu, mieszając czasem i dolewając wody (ostrożnie). Płynu (wody, passaty, bulionu) nie dać więcej niż 2-3x objętość ryżu. 
+- Kilka minut przed końcem - dorzucić krewetki
