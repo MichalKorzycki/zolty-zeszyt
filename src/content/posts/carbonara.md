@@ -26,7 +26,7 @@ Kolejny przebój z Lazio jak [Amatriciana ](/posts/amatriciana). Źródło nazwy
 - W tym czasie zagotować makaron w lekko posolonej wodzie. Lekko - bo ser i boczek są już same z siebie słone. 
 - Zachować kubek wody z gotowania makaronu.
 - Wyciągnąć boczek w tłuszczu. Na tłuszcz wrzucić makaron. Dodać trochę wody z gotowania. Wymieszać do uzyskania kremowej konstystencji.
-- W miseczce wymieszać 3 żółtka, 1 całe jajko, sól, pieprz i tyle sera aby uzyskać konsystencję rzadkiego ciasta.
+- W miseczce wymieszać 3 żółtka, 1 całe jajko, sól, pieprz i tyle sera aby uzyskać konsystencję rzadkiego ciasta. Zahartować paroma łyżkami wody z makaronu.
 - Zdjąć z ognia makaron, dorzucić masę jajeczno-serową, mieszać aż jaja się zetną. (niektórzy wykonują tą operację trzymając makaron na parze).
 - Dorzucić boczek.
 - Podawać posypany serem Pecorino.
