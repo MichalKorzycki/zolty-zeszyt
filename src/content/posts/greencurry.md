@@ -26,7 +26,7 @@ W ramach ogłoszonego programu *"Global Thai"*, na całym świecie można było 
 
 ## Przygotowanie:
 
-- mięso pokroić w kawałki na jedno nabranie na widelec
+- mięso pokroić na drobne kawałki na jedno nabranie na widelec
 - rozgrzać olej
 - na oleju podsmażyć pastę curry aż do wyraźnego rozpadnięcia się jej (zacznie wydzielać olej)
 - podsmażyć mięso na tym oleju

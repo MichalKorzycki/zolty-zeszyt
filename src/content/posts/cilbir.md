@@ -4,7 +4,7 @@ author: Michał Korzycki
 title: Çılbır
 description: Jaja sadzone po turecku
 image:
-  url: "/images/cilbir.jpg"
+  url: "/images/cilbir2.jpg"
   alt: "#"
 tags: ["Turkish", "Quick"]
 ---
