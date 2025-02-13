@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-12-31
 author: Michał Korzycki
-title: Tantanmen
+title: Tantanmen Ramen
 description: "Tantanmen"
 image:
   url: "/images/tantanmen.jpg" 
@@ -13,11 +13,12 @@ Danie oryginalnie pochodzące z kuchni chińskiej, zostało sprowadzone do Japon
 
 Moja wersja jest kompilacją wielu różnych przepisów - wybrałem wersję moim zdaniem najprostszą ale zachowującą charakterystyczne cechy - kremowość, chili i nuty sezamu.
 
+## Składniki na wkładkę mięsną
+- chude mięso mielone wieprzowe
+- 
 
+## Składniki na bazę
+- bulion
 
 ## Przygotowanie:
 
-- Pokroić bagietkę na grzanki
-- Podsmażyć grzanki na oliwie z ziołami (ja stosuję sam rozmaryn) do zrumienienia
-- Posiekaną sałatę zasypać tartym parmezanem i grzankami, zmieszać
-- Przed podaniem, polać sosem, wymieszać
