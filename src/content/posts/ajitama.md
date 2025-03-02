@@ -21,7 +21,7 @@ Miska Ramen bez na wpół-twardego jajeczka ajitama się nie liczy.
 
 ## Przygotowanie:
 
-- Jajka ugotować na pół-twardo. Coś pomiędzy jajkiem na miękko a jajkiem na twardo. Od zagotowania 6 minut dla małych jajek, 7 dla dużych. Po wyciągnięciu natychmiast wsadzić do zimnej wody by zatrzymać proces gotowania się jajka.
+- Jajka ugotować na pół-twardo. Coś pomiędzy jajkiem na miękko a jajkiem na twardo. Do gotującej się wody (!) wrzucić jajka - na 6 minut dla małych jajek, 7 dla dużych. Po wyciągnięciu natychmiast wsadzić do zimnej wody by zatrzymać proces gotowania się jajka.
 - Przygotować zalewę w słoiku:
   - 1 część wody
   - 1 część ciemnego sosu sojowego
