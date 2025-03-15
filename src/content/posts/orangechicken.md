@@ -9,26 +9,17 @@ image:
 tags: ["Chinese"]
 ---
 
-Lo Mein (czyt. lāo miàn) to kolejne szybkie danie jak od chińczyka za rogiem. Warzywa podsmażone na chrupko z jakimś białkiem w sosie z makaronem.
-
-
-Podstawą tego dania jest "wczorajszy ryż". Ugotować ryż na sypko, przełożyc do dużego naczynia. Upewnić się, że się nie sklei przez odpowienie rozbicie wszelkich grudek.
-
-Danie, jak już ma się ryż, jest dość szybkie w przygotowaniu. 
-
-Należy przy tym używać kuchenki "na maxa".
-
+Klasyka kuchni american-chinese stworzona przed Andyego Kao w 1987r. Przepis wybił sieć restauracji Pandas Express na szczyty.
 
 ## Składniki:
 
-- 300g mięsa z kurczaka pocięte w drobne paski
-- 2 białka jajek0
+- 400g mięsa z kurczaka pocięte w drobne paski
+- 2 białka jajek
 - soda oczyszczona
 - 2 pomarańcze
 - neutralny olej
 - mączka ziemniaczana
 - sos sojowy - ćwierć 
-- ocet jabłkowy
 - pół szklanki cukru
 
 ## Przygotowanie:
@@ -39,4 +30,11 @@ Należy przy tym używać kuchenki "na maxa".
 - rozgrzać olej
 - mięso dorzucić do mączki ziemniaczanej
 - smażyć krótko mieso na intensywnym ogniu
-- 
+- sos przygotować przez rozpuszczenie w garnku cukru w szklance wody
+- skórkę z 2 pomarańczy zetrzeć - dorzucić do sosu
+- dodać łyżeczkę octu ryżowego, łyżeczkę oleju sezamowego i łyżeczkę sosu sojowego
+- dodać wyciśnięty sok z dwu pomarańczy
+- dosypać płatki chilli
+- rozrobić łyżeczkę mąki ziemniaczej w szklance wody, dodać do sosu
+- jak sos zacznie gęstnieć - polać usmażone mięso
+- posypać ziarnami sezamu
