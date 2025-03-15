@@ -34,10 +34,10 @@ Pasta Gochujang do znalezienia na działach azjatyckich supermarketów:
 - Odstawić na parę godzin (nawet i pół dnia) aż kapusta zmięknie
 - Odcedzić po tym czasie kapustę. Ja nie płuczę z soli. Ona zapobiega pojawieniu się złych bakterii i wspomaga fermentację mlekową (czyli taką jak przy naszej kapuście czy ogórkach).
 - w blenderze zmiksować:
- - jabłka/gruszki po usunięciu gniazd nasiennych
- - 4 kopiate łyżki Gochujang
- - czosnek
- - obrany imbir
+  - jabłka/gruszki po usunięciu gniazd nasiennych
+  - 4 kopiate łyżki Gochujang
+  - czosnek
+  - obrany imbir
 - Do słoja wrzucić kapustę, obraną i posiekaną w słupki marchewkę, posiekaną cebulę (cebulkę ?), obraną i posiekaną rzepę
 - Zalać masą z miksera. Można odrobinę wody dodać - ale mało, bo warzywa puszczą sok.
 - Odstawić na parę dni.

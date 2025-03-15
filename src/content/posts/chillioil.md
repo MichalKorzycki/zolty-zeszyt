@@ -6,7 +6,7 @@ description: Dodatek do dań egzotycznych
 image:
   url: "/images/chillioil.jpg" 
   alt: "#"
-tags: ["Chinese"]
+tags: ["Chinese", "Addon"]
 ---
 
 Dodatek do wielu dań. Można dowolnie duży czy mały słoik tego przygotować z góry.

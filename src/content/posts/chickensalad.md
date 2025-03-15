@@ -2,7 +2,7 @@
 pubDate: 2025-02-23
 author: Michał Korzycki
 title: Sałatka z kurczakiem 
-description: ... z kurczakiem, orzechami i serem blue w sosie miodowo-musztardowym
+description: ... z kurczakiem,  serem blue i orzechami w sosie miodowo-musztardowym
 image:
   url: "/images/chickensalad.jpg" 
   alt: "#"
