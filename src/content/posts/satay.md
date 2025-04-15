@@ -14,7 +14,7 @@ na patyczki podawane z sosem. Wersja poniżej, jest zrobiona na sposób tajski.
 
 ## Składniki na marynatę:
 
-- 800g ciemnego mięsa pociętego w kostkę. Ja używam udźca z indyka
+- 800g ciemnego mięsa pociętego w kostkę. Ja używam udziec z indyka
 - Kmin rzymski
 - Kolendra mielona
 - Cynamon
