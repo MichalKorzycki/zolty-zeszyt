@@ -1,7 +1,7 @@
 ---
 pubDate: 2025-06-19
 author: Michał Korzycki
-title: Pesto z rukoli i orzechów
+title: Pesto z rukoli i orzechów włoskich
 description: Szybkie pesto o wyraźnym smaku
 image:
   url: "/images/pesto.jpg" 
