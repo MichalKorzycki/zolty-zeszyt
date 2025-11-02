@@ -9,17 +9,19 @@ image:
 tags: ["Italian", "Addon", "Quick"]
 ---
 
-Dla mnie pesto ma dwie bazy - jakieś liście i jakiś oleisty dodatek orzechów czy nasion. Klasycznie - to liście bazylii i orzeszki pinii. Ja orzeszki pinii zwykle zastępuję prażonymi ziarnami słonecznika.
+Dla mnie pesto ma dwie bazy - jakieś liście i jakiś oleisty dodatek w postaci orzechów czy nasion. 
 
-Wersję pesto na rukoli i orzechami włoskimi wolę od klasycznej. Rukola ma swój charakterystyczny pieprzowy smak, a orzechy mają bardziej charakterystyczny smak w stosunku do orzeszków pinii które do mnie nie przemawiają. 
+Klasyczne składniki to liście bazylii i orzeszki pinii. Ja orzeszki pinii zwykle zastępuję prażonymi ziarnami słonecznika.
 
-Inne wersje to można użyć np. liści młodej marchwi. 
+Od klasycznej, wolę Wersję pesto z rukoli i orzechów włoskich. Rukola ma swój charakterystyczny pieprzowy smak, a orzechy mają bardziej charakterystyczny smak od orzeszków pinii które do mnie nie przemawiają. 
+
+W pesto, można bawić się bardzo szerokim zakresem zieleniny - od liści szpinaku bo nać młodej marchewki.
 
 
 ## Składniki
 
-- 100g liści rukoli
-- 100g orzechów włoskich
+- 100g liści rukoli - lub innej zieleniny
+- 100g orzechów włoskich - lub innych ziaren czy orzechów
 - 100g twardego sera typu włoskiego
 - 4 ząbki czosnku
 - oliwa
