@@ -1,6 +1,8 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import EntriesOne from "@/components/entries/EntriesOne.astro";
+import Hero from "../../components/landing/Hero.astro";
+
 import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
@@ -28,9 +30,11 @@ export async function getStaticPaths() {
 
 const { tag } = Astro.params;
 const { posts } = Astro.props;
+
 ---
 
 <BaseLayout pageTitle={tag}>
+  <Hero />
   <section>
     <div
       class="px-8 py-12 md:px-12 mx-auto lg:pb-24 max-w-7xl lg:px-32 lg:pt-48"

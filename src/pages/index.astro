@@ -5,13 +5,17 @@ import EntriesOne from "../components/entries/EntriesOne.astro";
 import Hero from "../components/landing/Hero.astro";
 
 const allPosts = await getCollection("posts");
-const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
-
-// Sort posts by date in descending order (newest first)
 const sortedPosts = allPosts.sort(
-  (a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate)
+  (a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 ).filter(entry => (entry.data.hidden !== true));
 
+const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
+
+// Show first 12 posts on the index page
+const pageSize = 12;
+const firstPagePosts = sortedPosts.slice(0, pageSize);
+const totalPages = Math.ceil(sortedPosts.length / pageSize);
+const hasNextPage = sortedPosts.length > pageSize;
 
 ---
 
@@ -32,7 +36,7 @@ const sortedPosts = allPosts.sort(
         class="grid grid-cols-1 mt-12 gap-1 gap-y-24 lg:grid-cols-3 sm:grid-cols-2"
       >
         {
-          sortedPosts.map((post) => (
+          firstPagePosts.map((post) => (
             <EntriesOne
               url={"/posts/" + post.slug}
               title={post.data.title}
@@ -46,6 +50,10 @@ const sortedPosts = allPosts.sort(
           ))
         }
       </ul>
+      <nav class="flex justify-center items-center gap-4 mt-12">
+        <span>Page 1 of {totalPages}</span>
+        {hasNextPage && <a href="/posts/2" class="hover:text-blue-500">Next →</a>}
+      </nav>
     </div>
   </section>
 </BaseLayout>
