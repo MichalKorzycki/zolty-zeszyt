@@ -1,23 +1,17 @@
 ---
-import { paginate,  getCollection } from 'astro:content'; // Assuming content collections
-
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import EntriesOne from "../../components/entries/EntriesOne.astro";
 import Hero from "../../components/landing/Hero.astro";
+import { getSortedPosts, getAllTags, PAGE_SIZE } from "../../utils/posts";
 
-const allPosts = await getCollection("posts");
-const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
-// Fetch your data (e.g., blog posts from content collections)
 export async function getStaticPaths({ paginate }) {
-  const allPosts = await getCollection("posts");
-  const sortedPosts = allPosts.sort(
-  (a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate)
-).filter(entry => (entry.data.hidden !== true));
-  
-  return paginate(sortedPosts, { pageSize: 12 });
+  const sortedPosts = await getSortedPosts();
+  return paginate(sortedPosts, { pageSize: PAGE_SIZE });
 }
 
 const { page } = Astro.props;
+const sortedPosts = await getSortedPosts();
+const tags = getAllTags(sortedPosts);
 
 ---
 

@@ -1,21 +1,15 @@
 ---
-import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import EntriesOne from "../components/entries/EntriesOne.astro";
 import Hero from "../components/landing/Hero.astro";
+import { getSortedPosts, getAllTags, PAGE_SIZE } from "../utils/posts";
 
-const allPosts = await getCollection("posts");
-const sortedPosts = allPosts.sort(
-  (a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
-).filter(entry => (entry.data.hidden !== true));
+const sortedPosts = await getSortedPosts();
+const tags = getAllTags(sortedPosts);
 
-const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
-
-// Show first 12 posts on the index page
-const pageSize = 12;
-const firstPagePosts = sortedPosts.slice(0, pageSize);
-const totalPages = Math.ceil(sortedPosts.length / pageSize);
-const hasNextPage = sortedPosts.length > pageSize;
+const firstPagePosts = sortedPosts.slice(0, PAGE_SIZE);
+const totalPages = Math.ceil(sortedPosts.length / PAGE_SIZE);
+const hasNextPage = sortedPosts.length > PAGE_SIZE;
 
 ---
 
