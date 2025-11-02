@@ -9,6 +9,9 @@ image:
 tags: ["Soup"]
 ---
 
+Jedno z wielu przepisów na zupę dyniową. Ta wersja jest idealna na chłodne wieczory - z rozgrzewającą papryką i imbirem.
+Na koniec, warto wyrównać smaki - słony, umami (ja to robię przecierem, ale możnaby sosem sojowym) i odrobiną masła. 
+
 ## Składniki
 
 - 800g pokrojonej, obrana dynia
