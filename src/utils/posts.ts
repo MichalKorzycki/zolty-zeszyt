@@ -1,7 +1,7 @@
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 
-export const PAGE_SIZE = 12;
+export const PAGE_SIZE = 9;
 
 /**
  * Get all posts sorted by date (newest first) and filtered to exclude hidden posts
