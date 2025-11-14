@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Yellow notebook cover -->
+  <rect x="96" y="64" width="320" height="384" rx="8" fill="#FDB813" stroke="#D4950B" stroke-width="4"/>
+
+  <!-- Spiral binding -->
+  <circle cx="128" cy="96" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="140" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="184" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="228" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="272" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="316" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="360" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+  <circle cx="128" cy="404" r="8" fill="none" stroke="#8B6914" stroke-width="3"/>
+
+  <!-- Vertical binding line -->
+  <line x1="144" y1="64" x2="144" y2="448" stroke="#D4950B" stroke-width="3"/>
+
+  <!-- Ruled lines on notebook -->
+  <line x1="180" y1="140" x2="380" y2="140" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+  <line x1="180" y1="180" x2="380" y2="180" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+  <line x1="180" y1="220" x2="380" y2="220" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+  <line x1="180" y1="260" x2="380" y2="260" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+  <line x1="180" y1="300" x2="380" y2="300" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+  <line x1="180" y1="340" x2="380" y2="340" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+  <line x1="180" y1="380" x2="380" y2="380" stroke="#F4E5C2" stroke-width="2" opacity="0.6"/>
+
+  <!-- Slight shadow/depth effect -->
+  <rect x="98" y="446" width="316" height="4" rx="2" fill="#D4950B" opacity="0.4"/>
+</svg>

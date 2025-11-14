@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Monochrome version for Safari pinned tab -->
+  <path fill="#000000" d="
+    M 96 64
+    L 96 448
+    L 416 448
+    L 416 64
+    Z
+    M 120 96
+    M 120 140
+    M 120 184
+    M 120 228
+    M 120 272
+    M 120 316
+    M 120 360
+    M 120 404
+  "/>
+  <rect x="96" y="64" width="320" height="384" rx="8" fill="#000000"/>
+  <circle cx="128" cy="96" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="140" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="184" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="228" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="272" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="316" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="360" r="8" fill="#FFFFFF"/>
+  <circle cx="128" cy="404" r="8" fill="#FFFFFF"/>
+  <line x1="144" y1="64" x2="144" y2="448" stroke="#FFFFFF" stroke-width="3"/>
+</svg>
