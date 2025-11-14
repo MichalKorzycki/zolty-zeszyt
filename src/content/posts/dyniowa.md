@@ -2,7 +2,7 @@
 pubDate: 2025-10-22
 author: Michał Korzycki
 title: Orientalna zupa dyniowa
-description: Mocmo rozgrzewający przysmak na jesień
+description: Mocno rozgrzewający przysmak na jesień
 image:
   url: "/images/dyniowa.jpg"
   alt: "#"

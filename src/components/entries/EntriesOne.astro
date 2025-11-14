@@ -33,7 +33,7 @@ const { title, url, description, pubDate, author, image, tags } = Astro.props;
             {title}
           </p>
         </div>
-        <p class="mt-4 text-sm text-zinc-500 line-clamp-2">{description}</p>
+        <p class="mt-4 text-sm text-zinc-500 line-clamp-2"><Fragment set:html={description} /></p>
 
         <div class="mt-4 flex space-x-2">
           {

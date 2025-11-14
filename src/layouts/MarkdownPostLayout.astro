@@ -69,7 +69,7 @@ Use AstroSeo in all the pages you want different Seo than the index page
         {frontmatter.title}
       </h1>
         <p class="max-w-2xl mt-8 mx-auto text-zinc-500">
-          <em>{frontmatter.description}</em>
+          <em><Fragment set:html={frontmatter.description} /></em>
         </p>
 
       </div>
