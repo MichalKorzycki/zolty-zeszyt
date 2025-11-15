@@ -39,6 +39,13 @@ const { page } = Astro.props;
     <div
       class="px-8 py-12 md:px-12 mx-auto lg:pb-24 max-w-7xl lg:px-32 lg:pt-48"
     >
+         <div class="flex justify-between">
+            <div class="flex gap-1">
+              <span class="inline-flex items-center uppercase  hover:text-blue-500   text-xs font-medium text-black"> 
+                <a href={`/tags/${tag}`}>{tag}</a>
+             </span>
+            </div>
+          </div>    
       <!-- Content omitted for brevity -->
       <ul
         class="grid grid-cols-1 mt-12 gap-1 gap-y-24 lg:grid-cols-3 sm:grid-cols-2"
