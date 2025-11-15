@@ -2,7 +2,7 @@
 pubDate: 2024-07-05
 author: Michał Korzycki
 title: BLT
-description: Bacon Lettuce Tomato podpatrzone na ulicach Nowego Jorku
+description: <i>Bacon Lettuce Tomato</i> podpatrzone na ulicach Nowego Jorku
 image:
   url: "/images/blt.jpg"
   alt: "#"

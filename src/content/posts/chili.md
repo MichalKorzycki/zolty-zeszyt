@@ -2,7 +2,7 @@
 pubDate: 2024-05-28 
 author: Michał Korzycki
 title: Cowboy Coffee Chili
-description: "Ain't no cowboy chili without a strong pot of coffee in it. Yihaa!"
+description: "<i>Ain't no cowboy chili without a strong pot of coffee in it. Yihaa!</i>"
 image:
   url: "/images/chili1.jpg"
   alt: "#"
