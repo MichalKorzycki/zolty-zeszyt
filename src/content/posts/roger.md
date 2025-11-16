@@ -6,20 +6,21 @@ description: <i>Fry it like Uncle Roger, fuiyoh!</i>
 image:
   url: "/images/roger.jpg"
   alt: "#"
-tags: ["Chinese"]
+tags: ["Chinese", "Quick"]
 ---
 
 Wujek Roger jest postacią stworzoną przez malezyjskiego komika Nigel Ng. Ma on reprezentować chińskiego mężczyzne w średnim wieku, lamentującym nad zachodnimi kucharzami próbującymi gotować dania z kuchni azjatyckiej. Popularność zyskał robiąc sobie heheszki z super-chefów takich jak Jamie Oliver czy Gordon Ramsay. Jego kanał znacznie przewyższył ich popularnością, prawdopodobnie przyczyniając się do spadku popularności gwiazd kulinarnych z poprzedniej dekady.  
 
-Przed rozpoczęciem kariery kulinarno-komedyjnej Nigel Ng pracował jako Data Scientist.
+Danie robi się bardzo szybko - pod warunkiem, że ma się gotowy ryż.
 
+Przed rozpoczęciem kariery kulinarno-komedyjnej Nigel Ng pracował jako Data Scientist.
 
 ## Składniki:
 
 - 2 Szalotki
 - 2 pęczki szczypiorku sałatkowego bądź dymki
 - Czosnek (4 ząbki)
-- 2 ostre papryczki
+- 2 długie ostre papryczki 
 - szklanka ryżu
 - 4 jajka 
 - sos sojowy
@@ -30,7 +31,7 @@ Przed rozpoczęciem kariery kulinarno-komedyjnej Nigel Ng pracował jako Data Sc
 ## Przygotowanie:
 
 - Przygotować dzień wcześniej ryż (koniecznie) - 2 szklanki wody na 1 szklankę ryżu. Do wody dorzucam kawałek korzenia imbiru i rozgnieciony ząbek czosnku (niekoniecznie)
-- Podsmażyć na oleju paprykę, szalotkę i białą część dymki
+- Podsmażyć na oleju posiekane paprykę, szalotkę i białą część dymki
 - Po chwili dodać posiekany czosnek
 - Roztrzepać w miseczce jajka
 - Na usmażone warzywa wlać jajka. Roztrzepać i podsmażyć jak jajecznicę.
