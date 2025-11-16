@@ -2,7 +2,7 @@
 pubDate: 2024-08-04
 author: Michał Korzycki
 title: Chłodnik Litewski
-description: Po Litewsku Šaltibarščiai
+description: Po Litewsku <i>Šaltibarščiai</i>
 image:
   url: "/images/chlodnik.jpg"
   alt: "#"

@@ -2,7 +2,7 @@
 pubDate: 2024-08-24
 author: Michał Korzycki
 title: Tzatziki
-description: "Tzatziki, cacık, tarator ..."
+description: "<i>Tzatziki, cacık, tarator</i> ..."
 image:
   url: "/images/tzatziki.jpg" 
   alt: "#"

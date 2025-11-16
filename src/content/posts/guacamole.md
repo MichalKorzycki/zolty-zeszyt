@@ -2,7 +2,7 @@
 pubDate: 2024-05-29
 author: Michał Korzycki
 title: Guacamole
-description: "Ahuacatl to po aztecku awokado"
+description: "<i>Ahuacatl</i> to po aztecku awokado"
 image:
   url: "/images/guac.jpg" 
   alt: "#"

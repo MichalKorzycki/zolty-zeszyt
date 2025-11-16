@@ -2,7 +2,7 @@
 pubDate: 2024-08-17
 author: Michał Korzycki
 title: Horiatiki
-description: "Nie 'Grecka' tylko 'wiejska'"
+description: "Nie <i>grecka</i> tylko <i>wiejska</i>"
 image:
   url: "/images/horiatiki.jpg" 
   alt: "#"

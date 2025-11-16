@@ -13,7 +13,7 @@ Wujek Roger jest postacią stworzoną przez malezyjskiego komika Nigel Ng. Ma on
 
 Danie robi się bardzo szybko - pod warunkiem, że ma się gotowy ryż.
 
-Przed rozpoczęciem kariery kulinarno-komedyjnej Nigel Ng pracował jako Data Scientist.
+Przed rozpoczęciem kariery kulinarno-komediowej Nigel Ng pracował jako Data Scientist.
 
 ## Składniki:
 
