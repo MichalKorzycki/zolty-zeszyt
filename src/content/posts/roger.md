@@ -9,7 +9,7 @@ image:
 tags: ["Chinese", "Quick"]
 ---
 
-Danie podpatrzone na kanale Wujka Rogera - postać stworzoną przez malezyjskiego komika Nigel Ng. Ma on reprezentować chińskiego mężczyzne w średnim wieku, lamentującym nad zachodnimi kucharzami próbującymi gotować dania z kuchni azjatyckiej (*haiyaaaa...*). Popularność zyskał robiąc sobie heheszki z super-chefów takich jak Jamie Oliver czy Gordon Ramsay. Jego kanał znacznie przewyższył ich oglądalnością, prawdopodobnie przyczyniając się do spadku popularności gwiazd kulinarnych z poprzedniej dekady.  
+Danie podpatrzone na kanale Wujka Rogera - postaci stworzonej przez malezyjskiego komika Nigel Ng. Ma on reprezentować chińskiego mężczyzne w średnim wieku, lamentującym nad zachodnimi kucharzami próbującymi gotować dania z kuchni azjatyckiej (*haiyaaaa...*). Popularność zyskał robiąc sobie heheszki z super-chefów takich jak Jamie Oliver czy Gordon Ramsay. Jego kanał znacznie przewyższył ich oglądalnością, prawdopodobnie przyczyniając się do spadku popularności gwiazd kulinarnych z poprzedniej dekady.  
 
 Danie robi się bardzo szybko - pod warunkiem, że ma się gotowy ryż.
 
