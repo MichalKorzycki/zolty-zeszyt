@@ -9,11 +9,11 @@ image:
 tags: ["Chinese", "Quick"]
 ---
 
-Wujek Roger jest postacią stworzoną przez malezyjskiego komika Nigel Ng. Ma on reprezentować chińskiego mężczyzne w średnim wieku, lamentującym nad zachodnimi kucharzami próbującymi gotować dania z kuchni azjatyckiej. Popularność zyskał robiąc sobie heheszki z super-chefów takich jak Jamie Oliver czy Gordon Ramsay. Jego kanał znacznie przewyższył ich popularnością, prawdopodobnie przyczyniając się do spadku popularności gwiazd kulinarnych z poprzedniej dekady.  
+Danie podpatrzone na kanale Wujka Rogera - postać stworzoną przez malezyjskiego komika Nigel Ng. Ma on reprezentować chińskiego mężczyzne w średnim wieku, lamentującym nad zachodnimi kucharzami próbującymi gotować dania z kuchni azjatyckiej (*haiyaaaa...*). Popularność zyskał robiąc sobie heheszki z super-chefów takich jak Jamie Oliver czy Gordon Ramsay. Jego kanał znacznie przewyższył ich oglądalnością, prawdopodobnie przyczyniając się do spadku popularności gwiazd kulinarnych z poprzedniej dekady.  
 
 Danie robi się bardzo szybko - pod warunkiem, że ma się gotowy ryż.
 
-Przed rozpoczęciem kariery kulinarno-komediowej Nigel Ng pracował jako Data Scientist.
+Przed rozpoczęciem kariery kulinarno-komediowej Nigel Ng pracował jako Data Scientist. 
 
 ## Składniki:
 
