@@ -21,7 +21,8 @@ Ja najczęściej przygotowywuje nawet bez makaronu.
 - 3 marchewki
 - 3 strąki selera naciowego 
 - 500g jakiegoś drobnego makaronu
-- sól, pieprz, rozmaryn
+- Łyżka przecieru pomidorowego
+- Sól, pieprz, rozmaryn
 - Oliwa
 
 ## Przygotowanie:
@@ -33,5 +34,5 @@ Ja najczęściej przygotowywuje nawet bez makaronu.
 - Dolać wody na tyle by wszystko przykryć
 - Gotować 30-45 min do zmięknięcia soczewicy
 - Dodać makaron, gotować jeszce całość tyle ile makaron tego wymaga do stanu *al dente*
-- Doprawić do smaku
+- Doprawić do smaku przecierem i przyprawami
 - Jeśli dodaliśmy makaron - podawać posypane parmezanem. Jak bez makaronu - można podawać z ryżem.
