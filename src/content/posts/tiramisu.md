@@ -11,7 +11,9 @@ tags: ["Dessert", "Italian"]
 
 Deser otoczony mitami i legendami - a tak naprawdę powstały w latach 60-tych XX-tego wieku we Włoszech. Podawany na drugie śniadanie w upalne dni.
 
-Do przygotowania można, ale nie trzeba, użyć alkoholu. Tradycyjnie używa się migdałowego likieru *amaretto*. Można zamiast użyć słodkiego wina *marsala*, likieru kawowego czy *Baileys*. Ja używam Metaxy - greckiej brandy połączonej ze słodkim winem muscatowym.
+Do przygotowania można, ale nie trzeba, użyć alkoholu. Tradycyjnie używa się migdałowego likieru *amaretto*. Można zamiast użyć słodkiego wina *marsala*, likieru kawowego czy *Baileys*. Ja używam *Metaxy* - greckiej brandy ze słodkim winem muscatowym.
+
+Można alkohol dodać do masy albo do kawy. W masie będzie dużo bardziej wyczuwalny - jak kto woli.
 
 Klasyczny przepis nie używa białek. Czasem zdaża się zastąpienie białek bitą śmietaną.
 

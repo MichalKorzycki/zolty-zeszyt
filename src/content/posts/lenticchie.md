@@ -35,4 +35,5 @@ Ja najczęściej przygotowywuje nawet bez makaronu.
 - Gotować 30-45 min do zmięknięcia soczewicy
 - Dodać makaron, gotować jeszce całość tyle ile makaron tego wymaga do stanu *al dente*
 - Doprawić do smaku przecierem i przyprawami
-- Jeśli dodaliśmy makaron - podawać posypane parmezanem. Jak bez makaronu - można podawać z ryżem.
+
+Jeśli dodaliśmy makaron - podawać posypane parmezanem. Jak bez makaronu - można podawać z ryżem.
