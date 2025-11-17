@@ -13,7 +13,7 @@ Deser otoczony mitami i legendami - a tak naprawdę powstały w latach 60-tych X
 
 Do przygotowania można, ale nie trzeba, użyć alkoholu. Tradycyjnie używa się migdałowego likieru *amaretto*. Można zamiast użyć słodkiego wina *marsala*, likieru kawowego czy *Baileys*. Ja używam *Metaxy* - greckiej brandy ze słodkim winem muscatowym.
 
-Można alkohol dodać do masy albo do kawy. W masie będzie dużo bardziej wyczuwalny - jak kto woli.
+Można alkohol dodać do masy albo do kawy. W masie będzie dużo bardziej wyczuwalny. Jak kto woli.
 
 Klasyczny przepis nie używa białek. Czasem zdaża się zastąpienie białek bitą śmietaną.
 
@@ -25,7 +25,9 @@ Klasyczny przepis nie używa białek. Czasem zdaża się zastąpienie białek bi
 - 250ml mocnej kawy
 - 200g biszkoptów *savoiardi* (nazywanych też *lady fingers*)
 - gorzkie kakao do posypania
+
 Ewentualnie:
+
 - 50ml wybranego alkoholu
 
 ## Przygotowanie:
@@ -35,7 +37,7 @@ Ewentualnie:
 - Mascarpone wmieszać w żółtka
 - Ubić białka na sztywną pianę (przy ubijaniu dodać odrobinę soli)
 - Bardzo delikatnie wmieszać białka do masy serowo-jajecznej.
-- Zaparzyć mocną kawę. Posłodzić 2 łyżkami cukru. Dodać do kawy alkohol.
+- Zaparzyć mocną kawę. Posłodzić 2 łyżkami cukru. Dodać do kawy alkohol (albo do masy - patrz wyżej).
 - Na dnie foremki rozłożyć gęsto jedną warstwę *savoiardi* - każdy biszkopt uprzednio delikatnie zanużyć w kawie.
 - Na biszkopty rozlać równo połowę masy serowo-jajecznej.
 - Ułożyć kolejną warstwę biszkoptów. Te mogą się nieco mocniej "opić" kawą.
