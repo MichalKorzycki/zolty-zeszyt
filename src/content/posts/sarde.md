@@ -2,7 +2,7 @@
 pubDate: 2025-08-30
 author: Michał Korzycki
 title: Pasta Con Le Sarde
-description: Tak smakują wakacje na morzem śródziemnym ...
+description: Tak smakują wakacje nad Morzem Śródziemnym ...
 image:
   url: "/images/sarde.jpg"
   alt: "#"
