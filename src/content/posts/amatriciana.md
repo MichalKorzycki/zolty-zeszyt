@@ -16,6 +16,7 @@ W Lazio (region Włoch w którym mieści się Rzym) będą używać Pecorino Rom
 ## Składniki
 
 - Pomidory, 2 puszki pelati albo passata 700ml
+- Peperoncino (albo klasycznie, czarny pieprz)
 - Boczek - idealnie Guanciale
 - Pecorino
 - Makaron - taki co będzie dobrze chłonął gęsty sos. Duże rurki - tortiglioni albo długi - bucatini.
@@ -45,7 +46,7 @@ Dalsze składniki:
 ## Przygotowanie:
 
 - Boczek drobno pokroić, podsmażyć na chrupiąco. Można na odrobinie oliwy.
-- Ja dodajem czasem peperoncino - małą ostrą papryczkę. W Lazio preferują raczej dla zasady czarny pieprz.
+- Ja dodajem peperoncino - małą ostrą papryczkę. W Lazio preferują raczej dla zasady czarny pieprz.
 - Dodać pomidory, rozgnieść - albo wlać passatę. Dać jej się trochę zredukować.
 - W tym czasie zagotować makaron w lekko posolonej wodzie. Lekko - bo ser i boczek są już same z siebie słone. 
 - Makaron gotować 3/4 czasu podanego na opakowaniu był al dente. Zachować kubek wody z gotowania makaronu.
