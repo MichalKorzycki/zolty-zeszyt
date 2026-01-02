@@ -2,14 +2,14 @@
 pubDate: 2025-12-25
 author: Michał Korzycki
 title: Cacio e Pepe
-description: Tylko makaron, ser, pieprz, woda i sól
+description: Tylko makaron, ser, pieprz, sól i woda
 image:
   url: "/images/cacio.jpg"
   alt: "#"
 tags: ["Quick", "Italian"]
 ---
 
-Wpis zrobi się dłuższy - bo z całego repertuaru to danie jest najprostsze a zarazem najtrudniejsze.
+Wpis zrobił się dłuższy - bo z całego repertuaru to danie jest najprostsze a zarazem najtrudniejsze.
 
 To jest jedno z czterech klasycznych dań z makaronu z Lazio - regionu otaczającego Rzym. Pozostałe to [Amatriciana](/posts/amatriciana), [Carbonara](/posts/amatriciana) i *pasta alla Gricia*. Jeśli do *Caccio e Pepe* dodamy boczek (*guanciale*) otrzymamy *pasta alla Gricia*. Jak do tego dodamy żółtka - mamy *Carbonarę*. Jeśli zamienić jajka na pomidory - mamy *Amatricianę*.
 
@@ -34,11 +34,11 @@ Składników jest tak niewiele, że ich jakość jest kluczowa. Makaron winien b
 ## Przygotowanie:
 
 - Wrzucić makaron do gotującej się posolonej wody. Użyć o połowę mniej wody niż zazwyczaj, tak aby się skrobią bardziej skoncentrowała. Z solą można oszczędnie - ser sam z siebie już jest słony.
-- Utrzeć na drobno (ważne) ser. Dodać kilka łyżek wody spod makaronu. Wymieszać do uzyskuania pasty o konsystencji nieco przypominającej plastelinę.
+- Utrzeć na drobno (ważne) ser. Dodać kilka łyżek wody spod makaronu. Wymieszać do uzyskania pasty o konsystencji nieco przypominającej plastelinę.
 - Na suchej patelni podgrzać świeżo zmielony pieprz aby wydobyć z niego aromat
-- Po upływie 2/3 czasu z opakowania przełożyć makaron na patelnię (nie odcedzać makaronu - woda z gotowania jest kluczowa w tym przepisie)
+- Po upływie 2/3 czasu gotowania z opakowania przełożyć makaron na patelnię (nie odcedzać makaronu - woda z gotowania jest kluczowa w tym przepisie)
 - Podlewając cały czas wodą z gotowania dokończyć makaron na patelni cały czas mieszając intensywnie. Skrobia z wody winna stworzyć już lekko kremową konsystencję makaronu
-- Odstawić patelnie z ognia na 30 sekund. Całość ma trochę wystygnąć.
+- Odstawić patelnie z ognia na 30 sekund. Całość ma trochę wystygnąć. To jest kluczowa sztuczka w tym przepisie.
 - Dorzucić ser, intensywnie mieszając. Powinno się uzyskać gładką, kremową konsystencję.
 - Podawać posypane dodatkowo pieprzem i odrobiną sera.
 
