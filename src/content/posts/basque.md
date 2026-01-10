@@ -9,7 +9,9 @@ image:
 tags: ["Dessert", "Spanish"]
 ---
 
-Przepis autorstwa Santiago Rivera stworzony w San Sebastian w 1990r. Konsystencja dość rzadka jak na sernik - bardziej przypomnijąca rozlewający się camembert niż typowe ciasto. Dla niektórych - ideał sernika
+Przepis autorstwa Santiago Rivera stworzony w San Sebastian w 1990r. Konsystencja dość rzadka jak na sernik - bardziej przypomnijąca rozlewający się camembert niż typowe ciasto. Dla niektórych - ideał sernika.
+
+Ten sernik zwany też jest czasem *spalonym* - ponieważ jest pieczony w wysokiej temperaturze. Wierch ma być niemal czarny a wnętrze półpłynne.
 
 ## Składniki
 

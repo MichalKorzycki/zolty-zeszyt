@@ -11,7 +11,7 @@ tags: ["Quick", "Italian"]
 
 Wpis zrobił się dłuższy - bo z całego repertuaru to danie jest najprostsze a zarazem najtrudniejsze.
 
-To jest jedno z czterech klasycznych dań z makaronu z Lazio - regionu otaczającego Rzym. Pozostałe to [Amatriciana](/posts/amatriciana), [Carbonara](/posts/amatriciana) i *pasta alla Gricia*. Jeśli do *Caccio e Pepe* dodamy boczek (*guanciale*) otrzymamy *pasta alla Gricia*. Jak do tego dodamy żółtka - mamy *Carbonarę*. Jeśli zamienić jajka na pomidory - mamy *Amatricianę*.
+To jest jedno z czterech klasycznych dań z makaronu z Lazio - regionu otaczającego Rzym. Pozostałe to [Amatriciana](/posts/amatriciana), [Carbonara](/posts/carbonara) i *pasta alla Gricia*. Jeśli do *Caccio e Pepe* dodamy boczek (*guanciale*) otrzymamy *pasta alla Gricia*. Jak do tego dodamy żółtka - mamy *Carbonarę*. Jeśli zamienić jajka na pomidory - mamy *Amatricianę*.
 
 To danie oczywiście można skosztować w innych regionach Włoch. Ale będą się tam zarzekać, że można użyć tylko ichniego, jedynego właściwego sera. W Toskanii wszyscy - od sklepikarza po sprzedawczynię butów zarzekali się, że można użyć do makaronu tylko *Pecorino Pienzano* (pecorino z Pienzy jest łagodniejszy).
 
