@@ -2,14 +2,14 @@
 pubDate: 2026-03-19
 author: Michał Korzycki
 title: Harira
-description: "Gulasz po Grecku"
+description: "Na przerwanie postu w Ramadanie"
 image:
   url: "/images/harira.jpg" 
   alt: "#"
 tags: ["Maghreb"]
 ---
 
-Sycąca zupa marokańska - tradycyjnie podawana w czasie Ramadanu na przerwanie postu (*Iftar*)
+Sycąca i pełna rozgrzewających przypraw zupa marokańska. Tradycyjnie podawana w czasie Ramadanu na przerwanie postu (*Iftar*)
 
 ## Składniki:
 
