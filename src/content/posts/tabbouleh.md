@@ -6,7 +6,7 @@ description: Moja pełna aromatu wersja tego mezzeh
 image:
   url: "/images/tabuleh.jpg"
   alt: "#"
-tags: ["Levant", "Salad"]
+tags: ["Levant", "Maghreb", "Salad"]
 ---
 
 *Mezzeh* znane od Maghrebu do Levantu robione z bulgurem. Ja wolę wersję z kuskusem. Zamiast typowo dodawanych pomidorów, ja wolę dodać groch włoski.
