@@ -11,6 +11,7 @@ tags: ["Maghreb"]
 
 Sycąca i pełna rozgrzewających przypraw zupa marokańska. Tradycyjnie podawana w czasie Ramadanu na przerwanie postu (*Iftar*)
 
+
 ## Składniki:
 
 - 600g mięsa z nogi kurczaka albo jagnięciny, pokrojnego w kostkę
