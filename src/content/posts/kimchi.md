@@ -14,9 +14,9 @@ Jak astronauta z Korei Południowej miał lecieć na Międzynarodową Stację Ko
 
 ## Składniki:
 
-- Główka kapusty pekińskiej
+- Główka kapusty pekińskiej ok. 1,5kg
 - Pasta Gochujang
-- 1kg marchewki
+- 0.5kg marchewki
 - 1 duża biała rzepa
 - 3 średnie czerwone cebule albo 2 pęczki cebulki z pędami
 - 6 ząbków czosnku
