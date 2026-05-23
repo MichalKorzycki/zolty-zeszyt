@@ -42,7 +42,7 @@ Można ryż owinąć paskiem nori, można zrobić z ryżu walec i owinąć glona
 
 ![zawijanie](/images/onigiri.drawio.png)
 
-- Złożyć płat nori w trójkąt. Nori ma dwie strony - gładką i szorstką. Położyć stroną szorstką do góry.
+-  Nori ma dwie strony - gładką i szorstką. Złożyć płat nori w trójkąt stroną szorstką do góry. Można też rozciąć płat na pół i użyć pojedynczej warstwy.
 - Umieścić na środku ok. łyżkę ryżu, dodać nadzienie, przykryć kolejną porcją ryżu
 - Przykryć ryż krótszym rogiem (na diagramie krok 1.)
 - Lekko zwilżone nori się klei. Zawinąć kolejne rogi (2. i 3.) i "skleić" rogi ze sobą. 
