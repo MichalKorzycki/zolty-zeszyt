@@ -9,9 +9,11 @@ image:
 tags: ["Quick", "Italian"]
 ---
 
-Przepis pochodzi z miejscowości Amatricia znajdującej się pod Rzymem. Kluczem są dobre składniki, a w szczególności owczy ser Pecorino. 
-Parmigiano Reggiano czy Grana Padano są serami na bazie mleka krowiego - są przez to trochę za łagodne. 
+Przepis pochodzi z miejscowości Amatricia znajdującej się w regionie Lazio (okolice Rzymu). Kluczem są dobre składniki, a w szczególności owczy ser Pecorino. 
+Parmigiano Reggiano czy Grana Padano są serami na bazie mleka krowiego - są przez to zbyt łagodne. 
 W Lazio (region Włoch w którym mieści się Rzym) będą używać Pecorino Romano. W Toskanii zaś, będą się zarzekać, że należy używać wyłącznie Pecorino Pienzano ...
+
+To danie należy do "wielkiej czwórki" past z Lazio, obok [Carbonary](/posts/carbonara), [Cacio e Pepe](/posts/cacioepepe) oraz [Gricia](/posts/gricia)
 
 ## Składniki
 

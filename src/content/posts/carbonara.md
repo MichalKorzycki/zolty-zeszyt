@@ -9,13 +9,12 @@ image:
 tags: ["Italian", "Quick"]
 ---
 
-Kolejny przebój z Lazio jak [Amatriciana ](/posts/amatriciana). Źródło nazwy ginie w mroku dziejów. Czy było to danie Karbonariuszy (tajne stowarzyszenie sprzeciwiające się okupacji wojsk napoleońskich), węglarzy czy też górników - nie wiadomo. Pojawiają się też obrazoburcze opinie takich historyków jak Luca Cesari, że danie powstało w 1944 w trakcie kampanii Włoskiej. U.S. Army miała po prostu do dyspozycji olbrzymie ilości bekonu i jajek w proszku.  
+Kolejny makaron z Lazio, tak jak [Amatriciana](/posts/amatriciana), [Cacio e Pepe](/posts/cacioepepe) czy [Gricia](/posts/gricia). Źródło nazwy ginie w mroku dziejów. Czy było to danie Karbonariuszy (tajne stowarzyszenie sprzeciwiające się okupacji wojsk napoleońskich), węglarzy czy też górników - nie wiadomo. Pojawiają się też obrazoburcze opinie takich historyków jak Luca Cesari, że danie powstało w 1944 w trakcie kampanii Włoskiej. U.S. Army miała po prostu do dyspozycji olbrzymie ilości bekonu i jajek w proszku.  
 
 ## Składniki
 
-- Pomidory, 2 puszki pelati albo passata 700ml
 - Boczek - idealnie Guanciale
-- Pecorino
+- Pecorino romana
 - Makaron Spaghetti 
 - Czarny pieprz
 - 3 żółtka 1 całe jajko
