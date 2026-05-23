@@ -2,7 +2,7 @@
 pubDate: 2026-05-22
 author: Michał Korzycki
 title: Onigiri
-description: Japońska kanapka
+description: <i>Arigato ... Origami ..., </i>a nie - <i>Onigiri!</i>
 image:
   url: "/images/onigiri.jpg"
   alt: "#"
@@ -16,20 +16,20 @@ Prostota onigiri jest myląca. Ryż musi być odpowiedni, dobrze ugotowany i odp
 ## Składniki
 
 - Ryż japoński (krótkoziarnisty, kleisty) - ok. 150g na sztukę
-- Sól
+- Sól, ocet ryżowy albo mirin
 - Nori (arkusze glonów)
 - Nadzienie do wyboru
 
 ### Nadzienia
 
-- **Sake/łosoś** - filet łososia posolony i upieczony, rozdrobniony
-- **Tuńczyk z wasabi** - tuńczyk z puszki odsączony, wymieszany z majonezem i pastą wasabi
-- **Tuńczyk na ostro** - tuńczyk z puszki odsączony, wymieszany z majonezem i sosem Shriraha
+- _Sake/łosoś_ - filet łososia posolony i upieczony, rozdrobniony
+- _Tuńczyk z wasabi_ - tuńczyk z puszki odsączony, wymieszany z majonezem i pastą wasabi
+- _Tuńczyk na ostro_ - tuńczyk z puszki odsączony, wymieszany z majonezem i sosem Shriraha
 
 ## Przygotowanie
 
-- Ryż przepłukać 4 razy kilkakrotnie aż woda będzie klarowna. Namoczyć 30 minut.
-- Ugotować ryż - na 1 szklankę ryżu 1 i 1/3 szklanki wody. Dodać szczyptę soli i łyżeczkę octu ryżowego. Zagotować, przykryć,  wyłączyć (albo zostawićna minimalnym ogniu), parować jeszcze 20 minut pod pokrywką.
+- Ryż przepłukać 4 razy aż woda będzie klarowna. Namoczyć 30 minut.
+- Ugotować ryż - na 1 szklankę ryżu 1 i 1/3 szklanki wody. Dodać szczyptę soli i łyżeczkę octu ryżowego albo mirinu. Zagotować, przykryć,  wyłączyć (albo zostawićna minimalnym ogniu), parować jeszcze 20 minut pod pokrywką.
 - Ryż delikatnie wymieszać łopatką (nie ugniatać - ziarna muszą pozostać całe).
 - Dłonie zwilżyć wodą i posolić - dzięki temu ryż nie przykleja się do rąk i onigiri będzie dobrze doprawione.
 - Nabierać porcję ciepłego ryżu, zrobić zagłębienie, włożyć nadzienie, zamknąć ryżem i uformować trójkąt albo kulę mocno dociskając.
@@ -38,7 +38,7 @@ Prostota onigiri jest myląca. Ryż musi być odpowiedni, dobrze ugotowany i odp
 
 ## Zawijanie
 
-Można ryż owinąć paskiem nori, można zrobić z ryżu walec i owinąć glonami. Uzyskanie eleganckiego trójkątnego kształtu wymaga wprawy i umiejętności. Znalazłem jednak prosty sposób na uzyskiwanie powtarzalnego charakterystycznego trójkątnego kształtu.
+Można ryż owinąć paskiem nori, można zrobić z ryżu walec i owinąć glonami. Ale uzyskanie eleganckiego trójkątnego kształtu wymaga wprawy i umiejętności. Znalazłem jednak prosty sposób na uzyskiwanie powtarzalnego charakterystycznego trójkątnego kształtu.
 
 ![zawijanie](/images/onigiri.drawio.png)
 
